@@ -16,7 +16,7 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "shydns-console-db"
-database_id = "6a01f49c-db70-40f3-b1e6-db4a3d9afd55"
+database_id = "6c3f99cc-9b89-4219-89f9-335ee8ad38dd"
 
 # 域名助力缓存
 [[kv_namespaces]]
