@@ -21,7 +21,7 @@ database_id = "6a01f49c-db70-40f3-b1e6-db4a3d9afd55"
 # 域名助力缓存
 [[kv_namespaces]]
 binding = "ASSIST_KV"
-id = "f44739ac9544450da6f1b585fdd51fdf"
+id = "97c4472f2ccd465993e5e4b34f51a037"
 
 # 定时任务：**每天凌晨 3 点跑一轮**，一轮内**在预算内尽量多扫**账号（游标见 cron.ts 的 sync_cursor）。
 #
